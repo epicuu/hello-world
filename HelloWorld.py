@@ -2,5 +2,9 @@
 # prints hello world. simple enough
 __author__ = "Victor P"
 
-# print Hello World! to the user
-print("Hello World!")
+def main():
+    # print Hello World! to the user
+    print("Hello World!")
+    
+if __name__ == "__main__":
+    main()
